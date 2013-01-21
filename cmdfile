@@ -1,0 +1,9 @@
+sudo apt-get install gitg 
+  gitg 
+ git remote add origin git@git.intelligrape.net:sahil-bootcamp.git 
+ git remote -v 
+git clone git@git.intelligrape.net:sahil-bootcamp.git 
+git remote 
+ git branch 
+ git status 
+
