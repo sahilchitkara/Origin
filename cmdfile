@@ -10,5 +10,10 @@ mkdir directoryname
 git init
 touch filename
 git add filename
-git commit -m "string name" 
+git commit -m "string name"
+git clone address
+git  diff file name
+git push -u origin master
+git init
+
 
