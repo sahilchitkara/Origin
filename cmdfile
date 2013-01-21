@@ -5,5 +5,10 @@ sudo apt-get install gitg
 git clone git@git.intelligrape.net:sahil-bootcamp.git 
 git remote 
  git branch 
- git status 
+ git status
+mkdir directoryname
+git init
+touch filename
+git add filename
+git commit -m "string name" 
 
